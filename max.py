@@ -1,0 +1,5 @@
+x=int(input("Please Enter first number"))
+y=int(input("Please Enter Second  number"))
+print("The maximum of the two value is")
+print (max(x,y))
+input("Press any key to exit")
